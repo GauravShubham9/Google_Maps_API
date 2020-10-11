@@ -21,3 +21,18 @@ for row in cur :
     if lat == 0 or lng == 0 : continue
     where = js['results'][0]['formatted_address']
     where = where.replace("'", "")
+    try :
+        print(where, lat, lng)
+
+        count = count + 1
+        if count > 1 : fhand.write(",\n")
+        output = "["+str(lat)+","+str(lng)+", '"+where+"']"
+        fhand.write(output)
+    except:
+        continue
+
+fhand.write("\n];\n")
+cur.close()
+fhand.close()
+print(count, "records written to where.js")
+print("Open where.html to view the data in a browser of your choice")
