@@ -79,3 +79,4 @@ for line in fh:
         time.sleep(2)
 
 print("Run geodump.py to read the data from the database so you can vizualize it on a map.")
+print("The code is running!!!")
