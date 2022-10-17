@@ -7,6 +7,7 @@ import ssl
 import sys
 
 api_key = False
+api_key = True
 # If you have a Google Places API key, enter it here
 # api_key = 'AIzaSy___IDByT70'
 
