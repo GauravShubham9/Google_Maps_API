@@ -1,5 +1,5 @@
 myData = [
-[25.5838258,85.1809232, 'Jakariyapur Jhali Rd, Jakariyapur, Pahari, Patna, Bihar 800027, India'],
+[25.5838258,85.1809232, 'Jakariyapur Jhali Rd, Jakariyapur, Pahari, Patna, Bihar 800007, India'],
 [50.06688579999999,19.9136192, 'aleja Adama Mickiewicza 30, 30-059 Kraków, Poland'],
 [52.2394019,21.0150792, 'Krakowskie Przedmieście 5, 00-068 Warszawa, Poland'],
 [30.018923,31.499674, 'AUC Avenue، Road، First New Cairo, Cairo Governorate 11835, Egypt'],
