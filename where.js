@@ -82,7 +82,7 @@ myData = [
 [33.6850236,73.05474199999999, '2 Ashfaq Ahmed Rd, H-8/2 H 8/2 H-8, Islamabad, Islamabad Capital Territory 44000, Pakistan'],
 [33.4532165,-112.0719833, 'Phoenix, AZ 85004, USA'],
 [-18.9494274,-45.4934107, 'Gerais, Paineiras - MG, 35622-000, Brazil'],
-[39.1974437,-96.5847249, 'Manhattan, KS 66506, USA'],
+[39.1974437,-96.5847249, 'Manhattan, KS 66506, United states of America'],
 [40.4454368,-3.7299424, 'Av. Séneca, 2, 28040 Madrid, Spain'],
 [38.28923,21.785369, 'Panepistimioupoli Patron 265 04, Greece'],
 [45.406766,11.8774462, 'Via 8 Febbraio 1848, 2, 35122 Padova PD, Italy']
